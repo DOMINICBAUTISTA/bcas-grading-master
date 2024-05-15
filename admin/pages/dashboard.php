@@ -358,7 +358,7 @@ $total_pass = $result_total_pass['total_pass'];
                                 <div class="carousel-inner" role="listbox">
                                     <div class="item active">
                                         <video width="99%" height="auto" controls autoplay muted>
-                                            <source src="../../home-assets/images/bcas-vid.mp4" type="video/mp4">
+                                            <source src="https://bcas.edu.ph/Promo%20Vid%202019.mp4" type="video/mp4">
                                             Your browser does not support the video tag.
                                         </video>
                                     </div>
@@ -386,25 +386,25 @@ $total_pass = $result_total_pass['total_pass'];
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner" role="listbox">
                                     <div class="item active">
-                                        <img style="opacity: 0.9;" src="" />
-                                        <!-- <div class="carousel-caption">
+                                        <img style="opacity: 0.9;" src="../../home-assets/images/wip.png" />
+                                     <div class="carousel-caption">
                                             <h3>Cheerdance competition</h3>
                                             <p>@Kolehiyo ng lungsod ng lipa</p>
-                                        </div> -->
+                                        </div>
                                     </div>
                                     <div class="item">
-                                        <img src="" />
-                                        <!-- <div class="carousel-caption">
+                                        <img src="../../home-assets/images/wip.png" />
+                                        <div class="carousel-caption">
                                             <h3>CTE Nights</h3>
-                                            <p>@Kolehiyo ng lungsod ng lipa</p>
-                                        </div> -->
+                                            <p>@Batangas College of</p>
+                                        </div>
                                     </div>
                                     <div class="item">
-                                        <img src="" />
-                                        <!-- <div class="carousel-caption">
+                                        <img src="../../home-assets/images/wip.png" />
+                                         <div class="carousel-caption">
                                             <h3>CRIM Days</h3>
                                             <p>@Kolehiyo ng lungsod ng lipa</p>
-                                        </div> -->
+                                        </div>
                                     </div>
                                 </div>
                                 <!-- Controls -->

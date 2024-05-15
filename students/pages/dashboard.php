@@ -284,7 +284,7 @@ $students_profile = $students['student_profile'];
                                 <div class="carousel-inner" role="listbox">
                                     <div class="item active">
                                         <video width="99%" height="auto" controls autoplay muted>
-                                            <source src="../../home-assets/images/bcas-vid.mp4" type="video/mp4">
+                                            <source src="https://bcas.edu.ph/Promo%20Vid%202019.mp4" type="video/mp4">
                                             Your browser does not support the video tag.
                                         </video>
                                     </div>
@@ -312,21 +312,21 @@ $students_profile = $students['student_profile'];
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner" role="listbox">
                                     <div class="item active">
-                                        <img style="opacity: 0.9;" src="../../home-assets/images/biglakasan-event-1.jpg" />
+                                        <img style="opacity: 0.9;" src="../../home-assets/images/test-image.jpg" />
                                         <!-- <div class="carousel-caption">
                                             <h3>Cheerdance competition</h3>
                                             <p>@Kolehiyo ng lungsod ng lipa</p>
                                         </div> -->
                                     </div>
                                     <div class="item">
-                                        <img src="../../home-assets/images/biglakasan-pageant.jpg" />
+                                        <img src="../../home-assets/images/test-image.jpg" />
                                         <!-- <div class="carousel-caption">
                                             <h3>CTE Nights</h3>
                                             <p>@Kolehiyo ng lungsod ng lipa</p>
                                         </div> -->
                                     </div>
                                     <div class="item">
-                                        <img src="../../home-assets/images/crim-days.jpg" />
+                                        <img src="../../home-assets/images/test-image.jpg" />
                                         <!-- <div class="carousel-caption">
                                             <h3>CRIM Days</h3>
                                             <p>@Kolehiyo ng lungsod ng lipa</p>

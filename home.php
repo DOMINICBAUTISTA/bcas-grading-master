@@ -157,7 +157,9 @@
 
                 <div class="col-lg-6">
                     <h1 style="color: #0d8654;" class="lh-1 my-3">Welcome to BCAS</h1>
-                    <p style="color: black;" class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quisquam, eos voluptas at hic corrupti iure voluptatibus molestias perspiciatis pariatur reiciendis beatae rerum magnam nesciunt magni aperiam ratione impedit natus.</p>
+                    <p style="color: black;" class="lead">We are thrilled to welcome you to the BCAS family! You have made a great choice for your education and future career. At BCAS, we are dedicated to providing you with a supportive and enriching learning environment.
+<br>
+Take advantage of the resources, faculty, and opportunities available to you. Your success is our priority, and we are here to support you every step of the way.</p>
 
                 </div>
             </div>
@@ -207,8 +209,10 @@
                         <div class="row my-5 py-lg-5">
                             <div class="col-md-8 mx-auto">
                                 <img src="home-assets/images/quote.png" class="rounded mx-auto d-inline" alt="...">
-                                <p style="color: #0d8654" class="testimonial-p mt-4">- Mission -<br> <br>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. In harum nostrum numquam ex corrupti, odio commodi enim ducimus voluptatum voluptatibus eveniet quis minima dicta recusandae. Delectus tempora deserunt expedita similique!
+                                <p style="color: #0d8654" class="testimonial-p mt-4"> Mission - Vision<br> <br>
+                                The Batangas College of Arts and Sciences exists for the student. It should be able to bring about the most desirable outcomes from the experiences it provides the student, for himself or herself, as well as for his or her community and the larger world outside.
+A center for the development of the total person who is physically, mentally, emotionally, spiritually and socially developed, fully prepared to meet the challenges of life and capable of contributing to the attainment of the nation’s development goals.
+In pursuit of its vision, Batangas College of Arts and Sciences, Inc. shall provide excellent education that is holistic, interdisciplinary, innovative and culture sensitive.
                                 </p>
 
                                 <div class="row">
@@ -224,23 +228,8 @@
                         <div class="row my-5 py-lg-5">
                             <div class="col-md-8 mx-auto">
                                 <img src="home-assets/images/quote.png" class="rounded mx-auto d-inline" alt="...">
-                                <p style="color: #0d8654" class="testimonial-p mt-4">- Vision -<br> <br>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam eius quae doloremque explicabo est repudiandae dignissimos vitae, necessitatibus perspiciatis dolorum labore culpa ullam, facilis, rem veniam sunt earum minima distinctio!
-                                <div class="row">
-                                    <div class="col-md-8">
-                                        <p style="color: #0d8654" class="pt-5 mb-1">BCAS Vision</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="row my-5 py-lg-5">
-                            <div class="col-md-8 mx-auto">
-                                <img src="home-assets/images/quote.png" class="rounded mx-auto d-inline" alt="...">
                                 <p style="color: #0d8654" class="testimonial-p mt-4">- Goals - <br> <br>
-                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis voluptatibus, consequuntur, laboriosam aliquid vitae saepe, in delectus explicabo minus aspernatur magnam voluptates. Ipsa harum labore impedit quibusdam ea in id!
+                                At BCAS, we aim to train and educate young minds to be leaders of excellence. We strive to mold character so our students and graduates become productive members of the local community and the world at large. We cultivate a close-knit learning environment, encouraging our students and staff to treat one another with respect and to care for each other as family.
                                 </p>
 
                                 <div class="row">
@@ -252,9 +241,6 @@
                         </div>
                     </div>
 
-
-
-
                 </div>
 
                 <div class=" testimonial-swiper-button col-md-3 position-absolute">
@@ -262,7 +248,6 @@
                     <div class="arrow-divider"> | </div>
                     <div class="swiper-button-next testimonial-arrow"></div>
                 </div>
-
             </div>
         </div>
     </section>
@@ -280,7 +265,7 @@
 
                     <div class="swiper-slide">
                         <div class="card" data-aos="flip-right" data-aos-duration="1000">
-                            <a href="#"><img src="" class="card-img-top" alt="image"></a>
+                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
                             <div class="card-body p-0">
                                 <a href="#">
                                     <h5 class="card-title pt-4">Event 1</h5>
@@ -292,7 +277,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="card" data-aos="flip-right" data-aos-duration="2000">
-                            <a href="#"><img src="" class="card-img-top" alt="image"></a>
+                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
                             <div class="card-body p-0">
                                 <a href="#">
                                     <h5 class="card-title pt-4">Event 2</h5>
@@ -304,19 +289,18 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="card" data-aos="flip-right" data-aos-duration="3000">
-                            <a href="#"><img src="" class="card-img-top" alt="image"></a>
+                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
                             <div class="card-body p-0">
                                 <a href="#">
                                     <h5 class="card-title pt-4">Event 3</h5>
                                 </a>
                                 <p class="card-text">@Batangas College of Arts & Sciences</p>
-
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="card">
-                            <a href="#"><img src="" class="card-img-top" alt="image"></a>
+                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
                             <div class="card-body p-0">
                                 <a href="#">
                                     <h5 class="card-title pt-4">Event 4</h5>
@@ -332,11 +316,6 @@
 
 
             </div>
-
-            <!-- <div class="residence-btn">
-                <a href="" class="btn btn-primary btn-lg my-5">View All Properties</a>
-            </div> -->
-
         </div>
     </section>
 
@@ -349,14 +328,14 @@
 
                 <div class="col-md-6" data-aos="fade-right" data-aos-md="fade-up">
                     <div class="image-holder d-flex">
-                        <video src="home-assets/images/bcas-vid.mp4" class="img-fluid" alt="Video" controls loading="lazy"></video>
+                        <video src="https://bcas.edu.ph/Promo%20Vid%202019.mp4" class="img-fluid" alt="Video" controls loading="lazy"></video>
                     </div>
                 </div>
 
                 <div class="col-md-6" data-aos="fade-left">
                     <div class="text-content ps-md-5 mt-4 mt-md-0">
                         <h2 class="text-capitalize">Campus Tour</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt reiciendis itaque nisi repellat aperiam cum voluptates, consequatur corrupti perspiciatis reprehenderit non doloribus quo temporibus unde porro tempora voluptatem saepe aspernatur.</p>
+                        <p>Featured Video of BCAS</p>
                         <a href="contact.php" style="background-color: #0d8654; border: none;" class="btn btn-primary btn-lg">Get In Touch</a>
                     </div>
                 </div>
@@ -367,16 +346,16 @@
     </section>
 
     <!-- Lets start  -->
-    <section id="start" style="background-color: rgb(202, 80, 35) !important; overflow-x: hidden;">
+    <section id="start" style="background-color: rgb(0, 100, 0) !important; overflow-x: hidden;">
         <div class="container my-5 py-5">
             <div class="row featurette py-lg-5 ">
                 <div class="col-md-5 order-md-1 d-flex">
                     <h1 class="text-capitalize  lh-1 mb-3" data-aos="fade-right" data-aos-duration="1000">Let's go explore and
-                        enroll now! <br> -- -- <img height="200px" width="200px" style="border-radius: 100px;" src="images/login/bcas-banner.jpg" alt=""></h1>
+                        enroll now! <br> -- -- <img height="200px" width="200px" style="border-radius: 100px;" src="https://bcas.edu.ph/logo.png" alt=""></h1>
                 </div>
                 <div class="col-md-7 order-md-2">
                     <div class="text-content ps-md-5 mt-4 mt-md-0">
-                        <p class="py-lg-2" data-aos="zoom-in" data-aos-duration="1000">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit magnam consectetur facilis explicabo neque, quasi veritatis pariatur tempore animi dolorum obcaecati ad voluptatum nesciunt ducimus officia commodi tempora in quia!</p>
+                        <p class="py-lg-2" data-aos="zoom-in" data-aos-duration="1000">Contact Us Now!</p>
                         <a style="background-color: #0d8654; border: none;" href="contact.php" data-aos="zoom-in" data-aos-duration="1500" class="btn btn-primary btn-lg px-4 me-md-2">Get
                             Started</a>
                     </div>

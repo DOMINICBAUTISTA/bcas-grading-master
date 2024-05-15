@@ -57,13 +57,13 @@
 
 
     // swiper
-    var swiper = new Swiper(".residence-swiper", {
+    var swiper = new Swiper(".bcas-swiper", {
       slidesPerView: 3,
       spaceBetween: 30,
       freeMode: true,
       navigation: {
-        nextEl: ".residence-swiper-next",
-        prevEl: ".residence-swiper-prev",
+        nextEl: ".bcas-swiper-next",
+        prevEl: ".bcas-swiper-prev",
       },
       pagination: {
         el: ".swiper-pagination",

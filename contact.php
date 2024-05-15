@@ -53,16 +53,8 @@
                             <li class="nav-item">
                                 <a class="nav-link me-md-4" href="home.php">Home</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link me-md-4" href="#about-us">About</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link me-md-4" href="#residence">Events</a>
-                            </li>
-                            <li class="nav-item">
                                 <a class="nav-link active me-md-4" href="#help">Contact</a>
                             </li>
-
                             <li class="nav-item">
                                 <a style="background-color: #1A242F; border: none;" class="btn-medium btn btn-info text-white" href="login.php">Student Portal</a>
                             </li>
@@ -146,7 +138,7 @@
         </nav>
     </header>
 
-    <section id="page-billboard" style="background-image: url(home-assets/images/residence.png); margin-top: 150px; background-color: #0d8654;">
+    <section id="page-billboard" style="background-color: #0d8654; margin-top: 120px; ">
         <div id="contact" class="container py-5 ">
             <div class="page-billboard-container">
                 <h1 class=" text-capitalize  lh-1 mb-3">Contact Us</h1>
