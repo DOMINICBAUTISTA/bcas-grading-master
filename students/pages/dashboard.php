@@ -214,7 +214,7 @@ $students_profile = $students['student_profile'];
             <!-- Menu -->
             <div class="menu">
                 <ul class="list">
-                    <li class="header">BCAS PORTAL</li>
+                    <li class="header">DIVINE SHEPHERED PORTAL</li>
                     <li class="active">
                         <a href="dashboard.php">
                             <i class="material-icons">home</i>
@@ -270,99 +270,8 @@ $students_profile = $students['student_profile'];
         <div class="container-fluid">
             <div class="block-header">
                 <h2>STUDENT DASHBOARD</h2>
-            </div>
-
-            <div class="row clearfix">
-                <!-- Basic Example -->
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="card" style="background: #0d8654 !important;">
-                        <div class="header">
-                            <h2 style="color: white;">CAMPUS TOUR</h2>
-                        </div>
-                        <div class="body">
-                            <div id="carousel-example-generic" data-ride="carousel">
-                                <div class="carousel-inner" role="listbox">
-                                    <div class="item active">
-                                        <video width="99%" height="auto" controls autoplay muted>
-                                            <source src="https://bcas.edu.ph/Promo%20Vid%202019.mp4" type="video/mp4">
-                                            Your browser does not support the video tag.
-                                        </video>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- #END# Basic Example -->
-                <!-- With Captions -->
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="card" style="background: #0d8654 !important;">
-                        <div class="header">
-                            <h2 style="color: white;">CAMPUS EVENTS</h2>
-                        </div>
-                        <div class="body">
-                            <div id="carousel-example-generic_2" class="carousel slide" data-ride="carousel">
-                                <!-- Indicators -->
-                                <ol class="carousel-indicators">
-                                    <li data-target="#carousel-example-generic_2" data-slide-to="0" class="active"></li>
-                                    <li data-target="#carousel-example-generic_2" data-slide-to="1"></li>
-                                    <li data-target="#carousel-example-generic_2" data-slide-to="2"></li>
-                                </ol>
-                                <!-- Wrapper for slides -->
-                                <div class="carousel-inner" role="listbox">
-                                    <div class="item active">
-                                        <img style="opacity: 0.9;" src="../../home-assets/images/test-image.jpg" />
-                                        <!-- <div class="carousel-caption">
-                                            <h3>Cheerdance competition</h3>
-                                            <p>@Kolehiyo ng lungsod ng lipa</p>
-                                        </div> -->
-                                    </div>
-                                    <div class="item">
-                                        <img src="../../home-assets/images/test-image.jpg" />
-                                        <!-- <div class="carousel-caption">
-                                            <h3>CTE Nights</h3>
-                                            <p>@Kolehiyo ng lungsod ng lipa</p>
-                                        </div> -->
-                                    </div>
-                                    <div class="item">
-                                        <img src="../../home-assets/images/test-image.jpg" />
-                                        <!-- <div class="carousel-caption">
-                                            <h3>CRIM Days</h3>
-                                            <p>@Kolehiyo ng lungsod ng lipa</p>
-                                        </div> -->
-                                    </div>
-                                </div>
-                                <!-- Controls -->
-                                <a class="left carousel-control" href="#carousel-example-generic_2" role="button" data-slide="prev">
-                                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                    <span class="sr-only">Previous</span>
-                                </a>
-                                <a class="right carousel-control" href="#carousel-example-generic_2" role="button" data-slide="next">
-                                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                    <span class="sr-only">Next</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <!-- <footer>
-        <div class="announcement-container">
-            <div class="announcement">
-                <h4>Announcement: Enrollment is on going</h4>
-            </div>
-        </div>
-    </footer> -->
-
+            </div
+    -->
     <!-- Jquery Core Js -->
     <script src="../assets/plugins/jquery/jquery.min.js"></script>
 

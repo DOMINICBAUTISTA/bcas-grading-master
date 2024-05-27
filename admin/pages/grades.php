@@ -212,7 +212,7 @@ $result = $conn->query($getGrades);
             <!-- Menu -->
             <div class="menu">
                 <ul class="list">
-                    <li class="header">BCAS PORTAL</li>
+                    <li class="header">DIVINE SHEPERED PORTAL</li>
                     <li>
                         <a href="dashboard.php">
                             <i class="material-icons">home</i>
@@ -321,7 +321,7 @@ $result = $conn->query($getGrades);
                                                 <td>
                                                     Academic Year : <span style="font-weight: 900;"><?php echo $results['academic_year']; ?></span> <br>
                                                     Teacher Assign : <span style="font-weight: 900;"><?php echo $results['teacher_assign']; ?> </span> <br>
-                                                    Semester : <span style="font-weight: 900;"><?php echo $results['semester_name']; ?></span> <br>
+                                                    Quarter : <span style="font-weight: 900;"><?php echo $results['semester_name']; ?></span> <br>
                                                     Subject code : <span style="font-weight: 900;"><?php echo $results['subject_code']; ?></span> <br>
                                                     Subject name : <span style="font-weight: 900;"><?php echo $results['subject_name']; ?></span> <br>
                                                     Unit : <span style="font-weight: 900;"><?php echo $results['subject_unit']; ?></span> <br>

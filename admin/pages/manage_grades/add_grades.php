@@ -307,7 +307,7 @@ $semesters = $semester_stmt->fetchAll(PDO::FETCH_ASSOC);
                                 <div class="form-group form-float">
                                     <div class="form-line">
                                         <select name="semester_id" class="form-control show-tick" required>
-                                            <option style="color: #0e0e0e !important;" disabled selected>-- Select semester --</option>
+                                            <option style="color: #0e0e0e !important;" disabled selected>-- Select Quarter --</option>
                                             <?php foreach ($semesters as $semester) : ?>
                                                 <option value="<?php echo $semester['semester_id']; ?>"><?php echo $semester['semester_name']; ?></option>
                                             <?php endforeach; ?>
@@ -352,7 +352,7 @@ $semesters = $semester_stmt->fetchAll(PDO::FETCH_ASSOC);
                                         <input type="number" class="form-control" name="grade_value" required>
                                         <label class="form-label">Final grade</label>
                                     </div>
-                                    <div class="help-info">1.00/2.00</div>
+                                    <div class="help-info">74 below is failing / 75 above is passing</div>
                                 </div>
 
                                 <input type="hidden" name="grade_status">

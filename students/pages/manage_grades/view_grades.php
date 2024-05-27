@@ -148,35 +148,42 @@ $student_data = $result->fetch(PDO::FETCH_ASSOC)
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="p-3 py-5">
-                    <div class="d-flex justify-content-between align-items-center experience">
-                        <?php
-                        $gradeValue = $student_data['grade_value'];
-                        $formattedGradeValue = number_format($gradeValue, 2);
-                        $gradeStatus = $student_data['grade_status'];
+        <div class="p-3 py-5">
+            <div class="d-flex justify-content-between align-items-center experience">
+                <?php
+                // Ensure $student_data is properly defined and populated
+                if (isset($student_data['grade_value'])) {
+                    $gradeValue = $student_data['grade_value'];
+                    $formattedGradeValue = number_format($gradeValue, 2);
+                    $gradeStatus = $student_data['grade_status'];
 
-                        $color = '';
+                    $color = '';
 
-                        if ($gradeValue >= 3.01) {
-                            $color = 'red';
-                        } elseif ($gradeValue >= 1.00) {
-                            $color = 'green';
-                        } else {
-                            $color = 'orange';
-                        }
-                        ?>
+                    // Corrected logic for assigning colors based on gradeValue
+                    if ($gradeValue < 75) {
+                        $color = 'red';
+                    } elseif ($gradeValue >= 75) {
+                        $color = 'green';
+                    } else {
+                        $color = 'orange';
+                    }
+                ?>
+                    <span style="color: <?php echo $color; ?>">FINAL : <?php echo $formattedGradeValue ?></span>
 
-                        <span style="color: <?php echo $color; ?>">FINAL : <?php echo $formattedGradeValue ?></span>
-
-                        <span class="border px-3 p-1 add-experience" style="background-color: <?php echo $color; ?>; color: white;">
-                            <i class="fa fa-plus"></i>&nbsp;<?php echo $gradeStatus ?>
-                        </span>
-                    </div>
-                    <br>
-                    <img src="../../../images/login/bcas-banner.jpg" style="width: 360px; height: 350px" alt="">
-                    <h3>Thankyou! enroll again</h3>
-                </div>
+                    <span class="border px-3 p-1 add-experience" style="background-color: <?php echo $color; ?>; color: white;">
+                        <i class="fa fa-plus"></i>&nbsp;<?php echo $gradeStatus ?>
+                    </span>
+                <?php
+                } else {
+                    echo "Grade value not available.";
+                }
+                ?>
             </div>
+            <br>
+            <img src="../../../images/login/bcas-banner.jpg" style="width: 360px; height: 350px" alt="">
+            <h3>Thank you! Enroll again.</h3>
+        </div>
+    </div>
         </div>
     </div>
     </div>

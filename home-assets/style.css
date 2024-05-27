@@ -82,11 +82,6 @@ a:hover {
 }
 
 
-li.residence-list {
-  list-style: none;
-  margin-right: 10px;
-}
-
 i {
   color: var(--light-text-color);
 }
@@ -277,59 +272,6 @@ button.btn.btn-primary.btn-lg.home-search {
     padding-left: 12px;
   }
 
-}
-
-
-
-/*---- residence section start ----  */
-
-.card {
-  --bs-card-border-width: none;
-  --bs-card-border-radius: none;
-  --bs-card-inner-border-radius: none;
-  background-color: transparent !important;
-
-}
-.card-title {
-  font-size: 26px;
-}
-
-section#residence {
-  background-image: url(images/residence.png);
-  position: relative;
-}
-
-.swiper-button-next.residence-arrow,
-.swiper-button-prev.residence-arrow {
-  background: transparent;
-  color: #FFFFFF;
-  border: 1px solid #FFFFFF;
-  padding: initial;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  position: absolute;
-  top: 270px;
-  z-index: 5;
-  cursor: pointer;
-  --swiper-navigation-size: 20px;
-  font-weight: bold;
-  margin-top: 70px;
-  margin-right: 20px;
-  margin-left: 20px;
-}
-
-li.residence-list {
-  padding-right: 20px;
-}
-
-.residence-btn {
-  display: flex;
-  justify-content: center;
-}
-
-button.btn.btn-primary.btn-lg.my-lg-5 {
-  padding: 22px 42px;
 }
 
 

@@ -13,14 +13,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $teacher_assign = $_POST['teacher_assign'];
     $grade_value = $_POST['grade_value'];
 
-    if ($grade_value >= 3.01) {
+    if ($grade_value < 75) {
         $grade_status = 'Failed';
-    } elseif ($grade_value >= 1.00) {
+    } elseif ($grade_value >= 75) {
         $grade_status = 'Passed';
     } else {
         $grade_status = 'INC';
     }
-
+    
     $sql = "INSERT INTO tbl_grades (academic_year_id, student_id, subject_id, semester_id, teacher_assign, grade_value, grade_status)
             VALUES (:academic_year_id, :student_id, :subject_id, :semester_id, :teacher_assign, :grade_value, :grade_status)";
 

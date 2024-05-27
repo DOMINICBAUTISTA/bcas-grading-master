@@ -189,7 +189,7 @@ $students = $getStmt->fetchAll(PDO::FETCH_ASSOC);
             <!-- Menu -->
             <div class="menu">
                 <ul class="list">
-                    <li class="header">BCAS PORTAL</li>
+                    <li class="header">DIVINE SHEPERED PORTAL</li>
                     <li>
                         <a href="dashboard.php">
                             <i class="material-icons">home</i>

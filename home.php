@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>BCAS - Batangas College of Arts & Sciences</title>
+    <title>Divine Shepered</title>
 
     <link rel="stylesheet" type="text/css" href="home-assets/css/vendor.css">
 
@@ -55,9 +55,6 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link me-md-4" href="#about-us">About</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link me-md-4" href="#residence">Events</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link me-md-4" href="#help">Contact</a>
@@ -156,7 +153,7 @@
                 </div>
 
                 <div class="col-lg-6">
-                    <h1 style="color: #0d8654;" class="lh-1 my-3">Welcome to BCAS</h1>
+                    <h1 style="color: #0d8654;" class="lh-1 my-3">Welcome to DIVINE SHEPERED</h1>
                     <p style="color: black;" class="lead">We are thrilled to welcome you to the BCAS family! You have made a great choice for your education and future career. At BCAS, we are dedicated to providing you with a supportive and enriching learning environment.
 <br>
 Take advantage of the resources, faculty, and opportunities available to you. Your success is our priority, and we are here to support you every step of the way.</p>
@@ -217,7 +214,7 @@ In pursuit of its vision, Batangas College of Arts and Sciences, Inc. shall prov
 
                                 <div class="row">
                                     <div class="col-md-8">
-                                        <p style="color: #0d8654" class="pt-5 mb-1">BCAS Mission</p>
+                                        <p style="color: #0d8654" class="pt-5 mb-1">DIVINE SHEPERED Mission - Vision</p>
                                     </div>
                                 </div>
                             </div>
@@ -234,7 +231,7 @@ In pursuit of its vision, Batangas College of Arts and Sciences, Inc. shall prov
 
                                 <div class="row">
                                     <div class="col-md-8">
-                                        <p style="color: #0d8654" class="pt-5 mb-1">BCAS Goals</p>
+                                        <p style="color: #0d8654" class="pt-5 mb-1">DIVINE SHEPERED Goals</p>
                                     </div>
                                 </div>
                             </div>
@@ -252,95 +249,6 @@ In pursuit of its vision, Batangas College of Arts and Sciences, Inc. shall prov
         </div>
     </section>
 
-    <!-- EVENTS -->
-    <section style="background-color: #0d8654;" id="residence">
-        <div class="container  my-5 py-5">
-            <h2 class="text-capitalize m-0 py-lg-5" data-aos="fade-right" data-aos-duration="1000">Campus Events</h2>
-
-            <div class="swiper-button-next residence-swiper-next  residence-arrow"></div>
-            <div class="swiper-button-prev residence-swiper-prev residence-arrow"></div>
-
-            <div class="swiper residence-swiper">
-                <div class="swiper-wrapper">
-
-                    <div class="swiper-slide">
-                        <div class="card" data-aos="flip-right" data-aos-duration="1000">
-                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
-                            <div class="card-body p-0">
-                                <a href="#">
-                                    <h5 class="card-title pt-4">Event 1</h5>
-                                </a>
-                                <p class="card-text">@Batangas College of Arts & Sciences</p>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="card" data-aos="flip-right" data-aos-duration="2000">
-                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
-                            <div class="card-body p-0">
-                                <a href="#">
-                                    <h5 class="card-title pt-4">Event 2</h5>
-                                </a>
-                                <p class="card-text">@Batangas College of Arts & Sciences</p>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="card" data-aos="flip-right" data-aos-duration="3000">
-                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
-                            <div class="card-body p-0">
-                                <a href="#">
-                                    <h5 class="card-title pt-4">Event 3</h5>
-                                </a>
-                                <p class="card-text">@Batangas College of Arts & Sciences</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="card">
-                            <a href="#"><img src="images/login/wip.png" class="card-img-top" alt="image"></a>
-                            <div class="card-body p-0">
-                                <a href="#">
-                                    <h5 class="card-title pt-4">Event 4</h5>
-                                </a>
-                                <p class="card-text">@Batangas College of Arts & Sciences</p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-            </div>
-        </div>
-    </section>
-
-
-    <!-- Help start  -->
-    <section id="help" class="py-5" style="background: linear-gradient(270deg, #1A242F 0.01%, rgba(26, 36, 47, 0.00) 100%); overflow-x: hidden;">
-        <div class="container-lg my-5">
-
-            <div class="row d-flex justify-content-between align-items-center">
-
-                <div class="col-md-6" data-aos="fade-right" data-aos-md="fade-up">
-                    <div class="image-holder d-flex">
-                        <video src="https://bcas.edu.ph/Promo%20Vid%202019.mp4" class="img-fluid" alt="Video" controls loading="lazy"></video>
-                    </div>
-                </div>
-
-                <div class="col-md-6" data-aos="fade-left">
-                    <div class="text-content ps-md-5 mt-4 mt-md-0">
-                        <h2 class="text-capitalize">Campus Tour</h2>
-                        <p>Featured Video of BCAS</p>
-                        <a href="contact.php" style="background-color: #0d8654; border: none;" class="btn btn-primary btn-lg">Get In Touch</a>
-                    </div>
-                </div>
-
-
             </div>
         </div>
     </section>
@@ -350,14 +258,12 @@ In pursuit of its vision, Batangas College of Arts and Sciences, Inc. shall prov
         <div class="container my-5 py-5">
             <div class="row featurette py-lg-5 ">
                 <div class="col-md-5 order-md-1 d-flex">
-                    <h1 class="text-capitalize  lh-1 mb-3" data-aos="fade-right" data-aos-duration="1000">Let's go explore and
-                        enroll now! <br> -- -- <img height="200px" width="200px" style="border-radius: 100px;" src="https://bcas.edu.ph/logo.png" alt=""></h1>
+                    <h1 class="text-capitalize  lh-1 mb-3" data-aos="fade-right" data-aos-duration="1000"> CONTACT US NOW! <img height="200px" width="200px" style="border-radius: 100px;" src="https://bcas.edu.ph/logo.png" alt=""></h1>
                 </div>
                 <div class="col-md-7 order-md-2">
                     <div class="text-content ps-md-5 mt-4 mt-md-0">
                         <p class="py-lg-2" data-aos="zoom-in" data-aos-duration="1000">Contact Us Now!</p>
-                        <a style="background-color: #0d8654; border: none;" href="contact.php" data-aos="zoom-in" data-aos-duration="1500" class="btn btn-primary btn-lg px-4 me-md-2">Get
-                            Started</a>
+                        <a style="background-color: #0d8654; border: none;" href="contact.php" data-aos="zoom-in" data-aos-duration="1500" class="btn btn-primary btn-lg px-4 me-md-2">Press me!</a>
                     </div>
                 </div>
             </div>
@@ -373,7 +279,7 @@ In pursuit of its vision, Batangas College of Arts and Sciences, Inc. shall prov
                     <h3><img id="footer-logo" style="height: 100px; width: 350px;" src="https://www.bcas.edu.ph/banner2.png" alt="image">
                     </h3>
                     <p><ion-icon name="location-outline"></ion-icon> Brgy. Bagongpook <br> Lipa Batangas Philippines</p>
-                    <p><ion-icon name="mail-outline"></ion-icon> bcas_2000@yahoo.com</p>
+                    <p><ion-icon name="mail-outline"></ion-icon> divineshepered@yahoo.com</p>
                     <p><ion-icon name="call-outline"></ion-icon> 0912 345 6789</p>
                     <i class="bi-facebook pe-4"></i>
                     <i class="bi-instagram pe-4"></i>
@@ -382,7 +288,7 @@ In pursuit of its vision, Batangas College of Arts and Sciences, Inc. shall prov
 
 
                 <div class="col-md-4 mb-3 ">
-                    <h5>Offered course</h5>
+                    <h5>Offered Strand</h5>
                     <ul class="nav flex-column">
                         <li class="nav-item mb-2">
                             <p style="margin: 0 !important;" class="nav-link p-0 ">Bachelor of Science in Information Technology</p>

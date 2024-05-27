@@ -212,7 +212,7 @@ if (isset($_GET['course_id'])) {
                     <li class="active">
                         <a href="../course.php">
                             <i class="material-icons">book</i>
-                            <span>Course</span>
+                            <span>Strand</span>
                         </a>
                     </li>
 

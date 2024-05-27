@@ -63,7 +63,7 @@ if (isset($_SESSION['student_id'])) {
                                 <div class="my-form-inner-container">
                                     <div class="panel-header">
                                         <h2 class="text-center">
-                                            BCAS PORTAL
+                                            DIVINE SHEPERED PORTAL
                                         </h2>
                                     </div>
                                     <div class="panel-body">

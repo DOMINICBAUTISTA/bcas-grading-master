@@ -14,9 +14,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $grade_value = $_POST['grade_value'];
     $grade_id = $_POST['grade_id'];
 
-    if ($grade_value >= 3.01) {
+    if ($grade_value < 75) {
         $grade_status = 'Failed';
-    } elseif ($grade_value >= 1.00) {
+    } elseif ($grade_value >= 75) {
         $grade_status = 'Passed';
     } else {
         $grade_status = 'INC';

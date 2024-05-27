@@ -184,7 +184,7 @@
                             <input type="text" name="email" placeholder="Phone Number" class="form-control ps-3">
                         </div>
                         <div class="col-lg-12 mb-3">
-                            <input type="text" name="email" placeholder="Your Subject Here" class="form-control ps-3">
+                            <input type="text" name="email" placeholder="Your Course" class="form-control ps-3">
                         </div>
                         <div class="col-lg-12 mb-3">
                             <textarea placeholder="Your Message Here" class="form-control ps-3" rows="8"></textarea>
@@ -247,7 +247,7 @@
 
 
                 <div class="col-md-4 mb-3 ">
-                    <h5>Offered course</h5>
+                    <h5>Offered Strand</h5>
                     <ul class="nav flex-column">
                         <li class="nav-item mb-2">
                             <p style="margin: 0 !important;" class="nav-link p-0 ">Bachelor of Science in Information Technology</p>

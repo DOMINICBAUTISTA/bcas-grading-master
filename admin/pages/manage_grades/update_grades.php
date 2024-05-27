@@ -378,7 +378,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
                                         <input type="number" class="form-control" name="grade_value" value="<?php echo number_format($grade['grade_value'], 2); ?>">
                                         <label class="form-label">Final grade</label>
                                     </div>
-                                    <div class="help-info">1.00/2.00</div>
+                                    <div class="help-info">74 below is failing / 75 above is passing</div>
                                 </div>
 
                                 <input type="hidden" name="grade_id" value="<?php echo $grade['grade_id']; ?>">
